@@ -1,1 +1,1 @@
-Ecommerce-website- Seven-mentor Class
+Ecommerce-website- SevenMentor Class
