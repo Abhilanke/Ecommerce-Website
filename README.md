@@ -34,14 +34,13 @@ This repository contains the source code for a fully functional **E-commerce Web
 ---
 
 #### **Guide**
-This project was developed under the guidance of **Anil Sir**, a highly experienced mentor at **SevenMentor Class**.
+This project was developed under the guidance of **Anil Giri Sir**, a highly experienced mentor at **SevenMentor Class**.
 
 ---
 
 #### **Future Enhancements**
 - Integration of a backend for user authentication and product management.  
-- Addition of a payment gateway for checkout functionality.  
-- Enhanced UI using Bootstrap or Materialize.
+
 
 
 
