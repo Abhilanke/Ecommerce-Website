@@ -3,7 +3,6 @@
 This repository contains the source code for a fully functional **E-commerce Website** developed as part of the **SevenMentor Full Stack Development Class** under the guidance of **Anil Giri Sir**. The project demonstrates front-end development skills using **HTML**, **CSS**, **JavaScript**, and **jQuery** to build an interactive and user-friendly shopping platform..
 
 ---
-
 #### **Key Features**
 - **Homepage**:  
   - Responsive navigation bar with search functionality.  
